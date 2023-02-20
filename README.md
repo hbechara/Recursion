@@ -10,6 +10,6 @@ Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. Th
 - Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
 - No disk may be placed on top of a smaller disk.
 
-Write a recursive algorithm for solving the Towers of Hanoi puzzle for arbitrary.
+Write a recursive algorithm for solving the Towers of Hanoi puzzle for arbitrary n.
 
 **Hint**: Break down the problem, identify your base case.
